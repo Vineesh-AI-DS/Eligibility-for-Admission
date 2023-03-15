@@ -26,7 +26,7 @@ Display whether the person is eligible for admission or not based on the given c
 Exit the Program.
 
 ## Program:
-```
+```cs
 using System;
 
 namespace exp1
@@ -66,7 +66,7 @@ namespace exp1
         }
     }
 }
-```
+```cs
 ## Output:
 
 
