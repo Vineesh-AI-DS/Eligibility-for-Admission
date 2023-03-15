@@ -66,7 +66,7 @@ namespace exp1
         }
     }
 }
-```cs
+```
 ## Output:
 
 
