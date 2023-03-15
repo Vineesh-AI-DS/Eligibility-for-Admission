@@ -4,25 +4,25 @@
 To write C# program to find the eligibility for admission to an engineering course
 
 ## Algorithnm:
-## Step 1:
+### Step 1:
 Create new class
 
-## Step 2:
+### Step 2:
 Initiate the variables for maths, physics and chemistry and get the value from the user.
 
-## Step 3:
+### Step 3:
 Convert the values to integer values.
 
-## Step 4:
+### Step 4:
 Calculate the sum of all three subjects and maths-physics total.
 
-## Step 5:
+### Step 5:
 Check for the given criteria for eligibility using if-else statements.
 
-## Step 6:
+### Step 6:
 Display whether the person is eligible for admission or not based on the given criteria.
 
-## Step 7:
+### Step 7:
 Exit the Program.
 
 ## Program:
@@ -68,7 +68,8 @@ namespace exp1
 }
 ```
 ## Output:
-
-
+![ss2](https://user-images.githubusercontent.com/93427254/225370643-b50cd18d-292f-42c8-ab02-3681cfaf78dc.png)
+![ss1](https://user-images.githubusercontent.com/93427254/225370653-face51d5-2412-4a75-99ae-0451e1a9a676.png)
 
 ## Result:
+Thus a C# program to check eligibility for admission is executed successfully.
