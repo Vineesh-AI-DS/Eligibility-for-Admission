@@ -69,6 +69,7 @@ namespace exp1
 ```
 ## Output:
 ![ss2](https://user-images.githubusercontent.com/93427254/225370643-b50cd18d-292f-42c8-ab02-3681cfaf78dc.png)
+
 ![ss1](https://user-images.githubusercontent.com/93427254/225370653-face51d5-2412-4a75-99ae-0451e1a9a676.png)
 
 ## Result:
